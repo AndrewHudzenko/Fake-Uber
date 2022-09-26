@@ -1,7 +1,7 @@
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/1/10/Fake_Taxi_logo.svg)
 # TAXI SERVICE
 ## This is a taxi service web-app which contains some functions: 
-> - get info about different drivers and they're cars
+> - get info about different drivers and their cars
 > - get info about available drivers or cars
 > - get info about different manufacturers
 > - add new driver, car or manufacturer
