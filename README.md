@@ -8,7 +8,6 @@
 ---
 #### FEATURES:
 > - registration
-> - authentication
 > - log in/log out 
 > - get available cars, drivers, manufacturers
 > - add new cars, drivers(like users), manufacturers
