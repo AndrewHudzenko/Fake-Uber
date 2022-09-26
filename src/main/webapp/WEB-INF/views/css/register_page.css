@@ -1,0 +1,14 @@
+main {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    color: #7C5FAB;
+    background-color: #7092be;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+
+}
+
+.main_form {
+    margin: auto;
+    text-align: center;
+}
